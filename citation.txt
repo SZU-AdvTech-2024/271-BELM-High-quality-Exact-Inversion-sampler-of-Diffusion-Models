@@ -2,6 +2,5 @@
     author = "Wang, Fangyikang and Yin, Hubery and Dong, Yue-Jiang and Zhu, Huminhao and Zhang, Chao and Zhao, Hanbin and Qian, Hui and Li, Chen",
     booktitle = "The Thirty-eighth Annual Conference on Neural Information Processing Systems",
     title = "{{BELM}: Bidirectional Explicit Linear Multi-step Sampler for Exact Inversion in Diffusion Models}",
-    url = "https://openreview.net/forum?id=ccQ4fmwLDb",
     year = "2024"
 }
